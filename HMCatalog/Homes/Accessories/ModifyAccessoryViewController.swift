@@ -113,6 +113,13 @@ class ModifyAccessoryViewController: HMCatalogViewController, HMAccessoryDelegat
         3. Assigns the accessory to the selected room, if necessary.
     */
     @IBAction func didTapAddButton() {
+        if accessory.category == HMAccessoryCategoryTypeLightbulb{
+            print("hello")
+            print(accessory.category)
+        }
+        print(accessory.services)
+
+        
         let name = trimmedName
         showActivityIndicator()
         

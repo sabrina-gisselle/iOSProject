@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ModifyAccessoryViewController.didTapAddButton() -&gt; ():ModifyAccessoryViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "accessory.bridged">
+            </PersistentString>
+            <PersistentString
+               value = "accessory.services">
+            </PersistentString>
+            <PersistentString
+               value = "HMAccessoryCategoryTypeLightbulb">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
